@@ -1,10 +1,10 @@
 ## Hello World!
 
-I am Dewan Nahidul Alam.
+I am Dewan... Dewan Nahidul Alam.
 
 I transform data into actionable business insights using Excel, SQL, Python/R, and Tableau/Power BI.
 
-Find more about me here:  
+Find out more about me here:  
 [LinkedIn](https://www.linkedin.com/in/dewan-nahidul-alam-niloy/)  
 [Portfolio Site](https://dewan-nahidul-alam.github.io/dewan-portfolio-site/)
 <!--
