@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hello World
 
+I am Dewan Nahidul Alam.
+
+I transform data into actionable business insights using Excel, SQL, Python/R, and Tableau/Power BI.
+
+Find more about me here:  
+[LinkedIn](https://www.linkedin.com/in/dewan-nahidul-alam-niloy/)  
+[Portfolio Site](https://dewan-nahidul-alam.notion.site/Dewan-Nahidul-Alam-24e7d32202ad801d9f05dd2dece431ff)
 <!--
 **Dewan-Nahidul-Alam/dewan-nahidul-alam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
