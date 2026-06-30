@@ -2,7 +2,7 @@
 
 I am Dewan... Dewan Nahidul Alam.
 
-I extract business insights from raw data using Excel, SQL, Python/R, and Tableau/Power BI.
+I extract trends and insights from raw data using Excel, SQL, Python/R, and Tableau/Power BI.
 
 Find out more about me here:  
 [LinkedIn](https://www.linkedin.com/in/dewan-nahidul-alam-niloy/)  
