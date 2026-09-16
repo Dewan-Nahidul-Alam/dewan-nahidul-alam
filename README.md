@@ -1,6 +1,7 @@
 ## Hello World!
 
-I am **Dewan... Dewan Nahidul Alam**.
+I am **Dewan... Dewan Nahidul Alam**.   
+Data & Business Analyst | 5+ yrs in Telecom & E-Commerce | Master of Business Analytics @ University of Auckland | SQL · Python · R · Power BI · Tableau
 
 I extract trends and insights from raw data that the bare eyes cannot see, using **Excel, SQL, Python/R, and Tableau/Power BI**.
 
